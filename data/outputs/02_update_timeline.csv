@@ -1,0 +1,17 @@
+﻿Time (UTC),Time assumed,Request,Event,Source
+time not stated,no,K-104,Cedar Air asks for 3 kit(s),S2
+time not stated,no,K-105,Birch Air asks for 1 kit(s),S2
+time not stated,no,K-105,Priya named coordinator,S6
+09:00,no,K-104,Morgan named coordinator,S6
+09:05,no,K-104,Offer v1 (archived): 3 kit(s) approved,S3
+09:10,no,K-104,"Cached summary says: 3 kits, Morgan, ready (last refresh 09:10)",S7
+10:15,no,K-105,Offer v1 (current): 1 kit(s) approved,S8
+10:15,no,K-105,Priya named coordinator,S8
+10:20,no,K-104,"Offer v2 (replaced by S9): 2 kit(s) approved, +1 after stock confirmation (not received)",S4
+10:25,no,K-104,Message M-104 accepted,S5
+10:27,no,K-104,Message M-104 bounced: the recipient mailbox was unavailable,S5
+10:30,no,K-105,Message M-105 accepted,S5
+10:31,no,K-105,Message M-105 delivered,S5
+11:00,no,K-104,Morgan moved off as coordinator; successor not assigned,S6
+11:30,yes,K-104,Offer v2 update (current): 3 kit(s) approved,S9
+11:31,yes,K-104,Jordan named coordinator,S10

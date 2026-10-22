@@ -1,0 +1,7 @@
+﻿Request,Customer,Status,Who acts next,Suggested actions (first = next),Open questions,Watch out,Sources
+K-104,Cedar Air,Can move forward,Jordan,"1. Check the customer's address and re-send the current offer (3 kit(s)) - Jordan (S5)
+2. Do not use the cached summary; refresh it - Report owner (not named in the notes) (S7)",,"Ignore offer v1 (3 kits): archived (S3)
+Ignore offer v2 (2 kits): replaced by S9 (S4)
+M-104 bounced at 10:27 (the recipient mailbox was unavailable); no later attempt recorded (S5)
+Cached summary refreshed 09:10 is out of date (records until 11:31); it says Morgan (coordinator now: Jordan) (S7)","S2, S3, S4, S5, S6, S7, S9, S10"
+K-105,Birch Air,Can move forward,Priya,1. Follow up with Birch Air on the delivered offer for 1 kit(s) - Priya (S5),,,"S2, S5, S6, S8"

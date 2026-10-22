@@ -1,0 +1,46 @@
+Alex's evidence desk - original 8 notes (S1-S8) plus the "Tomorrow has one change" update (S9-S10). Pasted verbatim from the task site, except:
+- Layout: the site shows S9/S10 as 'S9 <title>' with no type line. To match S1-S8 we put the ID and title on separate lines and added a type line
+  ('Offer update' / 'Ownership update') taken from the title.
+- Times: the site gives S9/S10 no time. We added fictional '[assumed HH:MM]' times after the last S1-S8 record (11:00), because both notes say
+  they replace earlier records. The tool marks these times as assumed.
+
+S1
+Alex's Monday note
+Colleague note
+It is Monday, 9 November. Tomorrow I cover the morning handover. I spend 20 minutes opening four screens, copying their updates and asking who should act. I need to know what can move forward and what needs a question. A new dashboard is optional. Removing a step would be wonderful. I can review a draft; I cannot approve quantities or assign a coordinator.
+S2
+Receive workstation · request queue
+Queue extract
+Request K-104: Cedar Air asks for 3 service kits. Request K-105: Birch Air asks for 1 service kit. Both need an update tomorrow morning. A service kit is simply a countable product; no aviation knowledge is needed.
+S3
+Record workstation · K-104 offer v1
+Archived offer
+09:05 · K-104 · version 1. Three kits approved for the proposed offer. Record status: archived; replaced by version 2 at 10:20.
+S4
+Record workstation · K-104 offer v2
+Current offer
+10:20 · K-104 · version 2. Record status: current. Two kits approved. A third kit may be added after a separate stock confirmation. Stock confirmation: not received.
+S5
+Send workstation · delivery events
+Delivery log
+K-104, message M-104: 10:25 accepted by the outbound service; 10:27 bounced because the recipient mailbox was unavailable. No later event is recorded for M-104. K-105, message M-105: 10:30 accepted; 10:31 delivered.
+S6
+People update · handover responsibility
+Current ownership note
+At 09:00, the coordinator list named Morgan for K-104. At 11:00, Morgan moved off this responsibility. Successor: not assigned. Priya remains the named coordinator for K-105. Alex is covering the handover; no request ownership has been assigned to Alex.
+S7
+Report workstation · morning summary
+Cached summary
+Generated at 09:10: K-104 · three kits · Morgan · ready. Last refresh: 09:10.
+S8
+Record workstation · K-105 current offer
+Current offer
+10:15 · K-105 · version 1. Record status: current. One kit approved, with no outstanding condition. Priya is the assigned coordinator.
+S9
+Current offer update · K-104
+Offer update
+[assumed 11:30] K-104: the third service kit is now unconditionally approved. Three kits are approved in total. This update replaces the earlier stock-confirmation condition.
+S10
+Current ownership update · K-104
+Ownership update
+[assumed 11:31] K-104: Jordan is now the assigned coordinator. This replaces the earlier unresolved ownership status.

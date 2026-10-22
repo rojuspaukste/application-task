@@ -1,0 +1,5 @@
+"What these records mean" - from Alex's evidence desk on the task site (transcribed from a screenshot).
+
+A request is what a customer asked for. An offer records an approved quantity. A conditional quantity needs its stated condition to be met. Offer versions are marked current or archived.
+Accepted means the outbound service took a message. Delivered means a delivery was recorded. Bounced means that message attempt failed. Each message ID identifies one attempt.
+A coordinator is the person assigned to a request. A summary has a refresh time. Unknown is a valid value; use the records to explain your conclusion.
